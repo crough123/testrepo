@@ -1,3 +1,3 @@
-#DIsplay the output
+#Display the output
 
 print ("Hello, World!")
